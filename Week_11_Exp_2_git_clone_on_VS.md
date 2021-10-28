@@ -17,7 +17,7 @@
 ```
 ผลการสร้าง repo บน github.com
 ```
-<img src = "./ง่ายๆ/week11.png" align = "center">
+<img src = "./ง่ายๆ/week11.PNG" align = "center">
 
 
 <table>
@@ -74,4 +74,4 @@
 
 - capture หน้าจอของ  Visual Studio ใส่ไว้แทนภาพด้านล่างนี้ด้วย
 
-<img src = "./ง่่ายๆ/form11.png">
+<img src = "./ง่่ายๆ/form11.PNG">
