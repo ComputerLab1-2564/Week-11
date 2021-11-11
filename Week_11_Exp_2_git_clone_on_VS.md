@@ -75,5 +75,4 @@
 
 - capture หน้าจอของ  Visual Studio ใส่ไว้แทนภาพด้านล่างนี้ด้วย
 
-
 <img src = "./tnk/from1.jpg">
