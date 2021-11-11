@@ -17,6 +17,7 @@
 ```
 ผลการสร้าง repo บน github.com
 ```
+
 <img src = "./tnk/repo.jpg" align = "center">
 
 
@@ -73,5 +74,6 @@
 #### ++เมื่อ sync เสร็จ ให้ตรวจสอบรายการไฟล์ใน repository บน GitHub.com++
 
 - capture หน้าจอของ  Visual Studio ใส่ไว้แทนภาพด้านล่างนี้ด้วย
+
 
 <img src = "./tnk/from1.jpg">
