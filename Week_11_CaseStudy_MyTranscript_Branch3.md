@@ -58,7 +58,7 @@ class Course
 
 4.1 ให้ build โปรแกรม ถ้าไม่มี error ให้ commit และ push
 
-### 5. สร้าง branch ใหม่ ชือ add-data-to-datagridview
+### 5. สร้าง branch ใหม่ ชือ Add-data-to-DataGridView
 
 * ไม่มีภาพตัวอย่างให้ดู ให้ทำตามขั้นตอนการสร้าง branch ในหัวข้อก่อนหน้านี้ 
 
