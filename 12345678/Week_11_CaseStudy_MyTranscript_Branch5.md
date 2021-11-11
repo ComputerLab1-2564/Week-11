@@ -9,6 +9,7 @@
 1. สร้าง branch ใหม่
 
 <p> <img src = "./images/Fig_CaseStudy_29.png">
+
 1.1 ตรวจสอบให้แน่ใจว่า Visual Studio ทำงานบน branch ใหม่แล้ว
 <p> <img src = "./images/Fig_CaseStudy_29a.png">
 
