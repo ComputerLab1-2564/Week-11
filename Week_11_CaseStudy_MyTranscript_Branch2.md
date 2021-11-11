@@ -99,8 +99,8 @@
 |Property| Setting     |
 |--------|-------------|
 |Type    | TextBox |
-|Name    | textBoxCourseName |
-|Text    | Computer Laboratory|
+|Name    | textBoxCourseCredit |
+|Text    | 3 |
 |Font | ปรับตามความเหมาะสม|
 
 ### Control (9) ###
@@ -108,8 +108,8 @@
 |Property| Setting     |
 |--------|-------------|
 |Type    | TextBox |
-|Name    | textBoxCourseCredit |
-|Text    | 3|
+|Name    | textBoxGrade |
+|Text    | B+|
 |Font | ปรับตามความเหมาะสม|
 
 ### Control (10) ###
