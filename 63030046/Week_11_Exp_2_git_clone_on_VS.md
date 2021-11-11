@@ -9,7 +9,7 @@
       <li> [X] Initialize this repository with a README
       <li> [ Add .gitignore : VisualStudio] 
     </ul>
-<img src = "./images/Fig-3.28.png" align = "center">
+![image](https://user-images.githubusercontent.com/91675464/141319219-76e5bc84-5e87-4694-a109-0e3f541e36a1.png)
 
 
 #### ให้ capture หน้าจอ repo ที่ได้ของนักศึกษามาแทนที่ภาพนี้ ####
@@ -17,7 +17,7 @@
 ```
 ผลการสร้าง repo บน github.com
 ```
-<img src = "./tnk/repo.jpg" align = "center">
+![image](https://user-images.githubusercontent.com/91675464/141320481-6c22024f-8b17-4d00-b901-6fd445b530dc.png)
 
 
 <table>
@@ -74,4 +74,4 @@
 
 - capture หน้าจอของ  Visual Studio ใส่ไว้แทนภาพด้านล่างนี้ด้วย
 
-<img src = "./tnk/from1.jpg">
+![image](https://user-images.githubusercontent.com/91675464/141320303-62331656-af8b-41e5-a78f-cca452072aaf.png)
