@@ -18,7 +18,7 @@
 ผลการสร้าง repo บน github.com
 ```
 
-<img src = "./tnk/repo.jpg" align = "center">
+<img src = "./pictures/11-1.png" align = "center">
 
 
 <table>
@@ -75,4 +75,4 @@
 
 - capture หน้าจอของ  Visual Studio ใส่ไว้แทนภาพด้านล่างนี้ด้วย
 
-<img src = "./tnk/from1.jpg">
+<img src = "./pictures/Screenshot 2021-10-28 232042.png">
