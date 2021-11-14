@@ -73,5 +73,6 @@
 #### ++เมื่อ sync เสร็จ ให้ตรวจสอบรายการไฟล์ใน repository บน GitHub.com++
 
 - capture หน้าจอของ  Visual Studio ใส่ไว้แทนภาพด้านล่างนี้ด้วย
+![image](https://user-images.githubusercontent.com/92081957/141691234-cf4960a9-f71e-47f5-9778-1e6c0486c2f3.png)
 
 <img src = "./images/Fig-3.32b.png">
