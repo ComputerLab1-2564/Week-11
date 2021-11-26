@@ -13,6 +13,8 @@
 
 
 #### ให้ capture หน้าจอ repo ที่ได้ของนักศึกษามาแทนที่ภาพนี้ ####
+![image](https://user-images.githubusercontent.com/92081596/143546456-15116780-2d0c-43d8-a7b7-7de907f17521.png)
+
 
 ```
 ผลการสร้าง repo บน github.com
@@ -73,5 +75,6 @@
 #### ++เมื่อ sync เสร็จ ให้ตรวจสอบรายการไฟล์ใน repository บน GitHub.com++
 
 - capture หน้าจอของ  Visual Studio ใส่ไว้แทนภาพด้านล่างนี้ด้วย
+![image](https://user-images.githubusercontent.com/92081596/143547422-4c978836-a072-4035-b59e-ca3788279f6f.png)
 
 <img src = "./images/Fig-3.32b.png">
