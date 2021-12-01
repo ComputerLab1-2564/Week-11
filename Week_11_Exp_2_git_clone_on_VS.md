@@ -17,7 +17,8 @@
 ```
 ผลการสร้าง repo บน github.com
 ```
-![1](https://user-images.githubusercontent.com/92082685/141653003-c8f32221-c518-4857-9d97-534ed2874f84.png)
+![1](https://user-images.githubusercontent.com/92082685/144249649-a9ddf23d-ac89-4206-840d-0430d889f45b.png)
+
 
 
 
@@ -75,6 +76,7 @@
 
 - capture หน้าจอของ  Visual Studio ใส่ไว้แทนภาพด้านล่างนี้ด้วย
 
-![2](https://user-images.githubusercontent.com/92082685/141653029-ee4c3067-5b6e-472a-a692-775eb477cb5e.png)
+![3](https://user-images.githubusercontent.com/92082685/144249745-db5a3f90-e687-4772-a5d3-26d5b46497a6.png)
+
 
 
