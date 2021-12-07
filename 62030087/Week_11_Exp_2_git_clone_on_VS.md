@@ -13,6 +13,8 @@
 
 
 #### ให้ capture หน้าจอ repo ที่ได้ของนักศึกษามาแทนที่ภาพนี้ ####
+![image](https://user-images.githubusercontent.com/71489984/145033902-49f4e5d9-a8e6-433b-9106-3c9e3afc406e.png)
+
 
 ```
 ผลการสร้าง repo บน github.com
@@ -74,4 +76,4 @@
 
 - capture หน้าจอของ  Visual Studio ใส่ไว้แทนภาพด้านล่างนี้ด้วย
 
-<img src = "./images/Fig-3.32b.png">
+![image](https://user-images.githubusercontent.com/71489984/145034927-2b63f59a-5547-4f4c-929f-4f06aa2f530a.png)
