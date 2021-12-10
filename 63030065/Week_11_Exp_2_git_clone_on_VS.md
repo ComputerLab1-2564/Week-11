@@ -17,7 +17,8 @@
 ```
 ผลการสร้าง repo บน github.com
 ```
-<img src = "./images/Fig-3.28_res.png" align = "center">
+![image](https://user-images.githubusercontent.com/92078869/145531810-b9c48f40-5a04-49f3-957d-771c253cb0f3.png)
+
 
 
 <table>
@@ -74,4 +75,4 @@
 
 - capture หน้าจอของ  Visual Studio ใส่ไว้แทนภาพด้านล่างนี้ด้วย
 
-<img src = "./images/Fig-3.32b.png">
+![image](https://user-images.githubusercontent.com/92078869/145533831-e5e6f630-d1a6-49ad-b4e7-098cfc24f1b7.png)
