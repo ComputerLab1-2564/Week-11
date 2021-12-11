@@ -17,7 +17,11 @@
 ```
 ผลการสร้าง repo บน github.com
 ```
+<<<<<<< HEAD:63030023/Week_11_Exp_2_git_clone_on_VS.md
 <img src = "./Pictures for working/Create repo.png" align = "center">
+=======
+<img src = "./tnk/repo.jpg" align = "center">
+>>>>>>> 1b9d7910a969a13ef8d564e090d1f84a82caa25d:Week_11_Exp_2_git_clone_on_VS.md
 
 
 <table>
@@ -74,4 +78,8 @@
 
 - capture หน้าจอของ  Visual Studio ใส่ไว้แทนภาพด้านล่างนี้ด้วย
 
+<<<<<<< HEAD:63030023/Week_11_Exp_2_git_clone_on_VS.md
 <img src = "./Pictures for working/vs project.png">
+=======
+<img src = "./tnk/from1.jpg">
+>>>>>>> 1b9d7910a969a13ef8d564e090d1f84a82caa25d:Week_11_Exp_2_git_clone_on_VS.md
