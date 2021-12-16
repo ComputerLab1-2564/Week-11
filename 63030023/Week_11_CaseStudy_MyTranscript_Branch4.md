@@ -73,8 +73,13 @@ List<Course> ที่ชื่อ newCourse นั้น ถูกนำไป�
 
 
 ### ทดลองแก้ไขรายละเอียดวิชาให้ตรงกับความเป็นจริง แล้วจับภาพหน้าจอมาส่ง ###
+<<<<<<< HEAD:63030023/Week_11_CaseStudy_MyTranscript_Branch4.md
  
  ![image](https://user-images.githubusercontent.com/92082676/145672497-1a2579ed-4adf-4aec-9144-f3bd48953bb1.png)
+=======
+ ![3](https://user-images.githubusercontent.com/92082685/141656602-b8256893-260a-4d1a-a758-ffca1112ae7e.png)
+
+>>>>>>> 794c6b1f17487eb23cc63f2fb69d97e176aae33d:Week_11_CaseStudy_MyTranscript_Branch4.md
 
 -----
 
